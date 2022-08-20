@@ -4,7 +4,7 @@ Simple app to generate and download a QR code that can be used to share a link.
 
 [Live Demo](https://qrcodeform.netlify.app/)
 
-<img src="assets/images/home.png">
+<img src="src/assets/images/home.png">
 
 ### MIT License
 
